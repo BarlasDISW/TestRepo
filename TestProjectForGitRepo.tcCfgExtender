@@ -28,36 +28,16 @@
 				<Node name="workspace">
 					<Node name="0">
 						<Node name="editor">
-							<Node name="{8c45957c-f4b3-4dd7-9212-49cbd350f69f}">
-								<Prp name="key" type="S" value="{2A785C90-83A8-4B54-BC64-AF5CC346A0BC}"/>
+							<Node name="{d9921bff-a395-4425-908d-6767b2d734ea}">
+								<Prp name="key" type="S" value="{6CD5B502-3879-4BC4-AD62-B7CC5203EDD6}"/>
 							</Node>
-							<Node name="{90fe4d39-229d-4887-ac6f-07b02ce523fc}">
-								<Node name="main">
-									<Prp name="height" type="I" value="150"/>
-									<Prp name="minimized" type="B" value="-1"/>
-								</Node>
-								<Node name="tables">
-									<Prp name="active" type="S" value=""/>
-								</Node>
-								<Node name="toolbox">
-									<Prp name="active" type="S" value=""/>
-								</Node>
-								<Prp name="key" type="S" value="{1E8B0709-4ACE-4C68-9B44-6A2D64D24CC9}"/>
-							</Node>
-							<Prp name="editor" type="S" value="{23E2BF58-4C09-46CF-9720-0183372088D2}"/>
-							<Prp name="focused" type="S" value="{1E8B0709-4ACE-4C68-9B44-6A2D64D24CC9}"/>
-						</Node>
-						<Prp name="edititem" type="S" value="{76C2A9B8-A8C9-455B-80BC-48938888CE41}"/>
-					</Node>
-					<Node name="1">
-						<Node name="editor">
-							<Prp name="editor" type="S" value="{8892BAD9-7D2B-4B3B-B833-61593535133E}"/>
-							<Prp name="focused" type="S" value="{63E52E43-FA21-4E13-8821-B4A45ED2DDA8}"/>
+							<Prp name="editor" type="S" value="{CC39B142-70BC-430D-ACF3-1A91917624D1}"/>
+							<Prp name="focused" type="S" value="{6CD5B502-3879-4BC4-AD62-B7CC5203EDD6}"/>
 						</Node>
 						<Prp name="edititem" type="S" value="{25C37806-ADF4-46DA-8ACE-9899FCA45EC6}"/>
 					</Node>
-					<Prp name="docking" type="H" value="617162696E00000001000000810200007801730C74F177F6E666800229203D818D8121891926828FB66082C8DEF17EF6DEBDF5A3F3E2CEEB574ADFC87232FE676460009960B1EFDD8D791FA2FDE7055ED81BF6FEAD51C1CFFFFF7F00E540C081154223912C486CACCCFF50700868C609A00A743E564D30C1041003E4E2B5200610DCDC35A943BBD6DA7B877162A4A9A9B01DC87552502FA1B88E0BA83898A1842191A108482A30040059E90CA940513AB81868CB6A20068188FD8F94397DCEBB4D57606C3657E8B884D3C19C40C54E60E7E600C962A0839D190C8162F4712E3482412E260C00D9917292"/>
-					<Prp name="editorscount" type="I" value="2"/>
+					<Prp name="docking" type="H" value="617162696E00000001000000D20100007801730C74F177F6E66680022920DDC3C6C010C70C13C14777324264EF783F7BEFDEFAD17971E7F52BA56F6439190380122013B6A7FC4BA8BEA7EF3865FEFDA707EC6F6E7909149B06C4A5EC0C0CB730AD608118879BFC0F058780E69F002A43E7E3D609944900C9825CBC16C40002A78D9667F614F03AAFF92C35716299CA4590EB76003186EBB88082C10C250C890C454052812100C84A6748058AD2C1C5405B480200857E4F8D"/>
+					<Prp name="editorscount" type="I" value="1"/>
 					<Prp name="enabled" type="B" value="-1"/>
 				</Node>
 			</Node>
@@ -65,6 +45,9 @@
 			<Node name="{86873e45-42bf-4c44-8fbd-d6bdfbfd5189}"/>
 			<Node name="{90fe4d39-229d-4887-ac6f-07b02ce523fc}">
 				<Node name="{90fe4d39-229d-4887-ac6f-07b02ce523fc}">
+					<Node name="{19ecef01-3e54-4302-aa4a-02173115524f}\testdata">
+						<Node name="expanding"/>
+					</Node>
 					<Node name="{76c2a9b8-a8c9-455b-80bc-48938888ce41}\testdata">
 						<Node name="expanding"/>
 					</Node>
