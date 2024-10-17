@@ -1,1 +1,1 @@
-﻿guugiuuiiugg
+﻿decodeURI(default)
